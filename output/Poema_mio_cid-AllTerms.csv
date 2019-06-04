@@ -1,0 +1,75 @@
+TERM;POSITION;WORD;TYPE;MODE;URI;CURRENT_TERM;AMBIGUOUS;ANOTHER_MEANING;ANOTHER_MEANING_URI;DESCRIPTION;GAZETTEER;VERIFICATION;GEO
+c'id;224;38;NPN;FT; ; ;NO; ; ; ; ;NO; 
+c'id;271;46;NPN;FT; ; ;NO; ; ; ; ;NO; 
+sennor;308;54;RNH;FT; ; ; ; ; ; ; ; 
+biuar;444;78;PLN;FT;http://sws.geonames.org/3104488;Vivar del Cid;NO; ; ; ;Medieval;NO;0 0
+burgos;491;86;APLN;FT;http://sws.geonames.org/3127461/;Burgos;SI; ; ; ;Medieval;NO;42.34997:-3.68221
+c'id;531;92;NPN;FT; ; ;NO; ; ; ; ;NO; 
+albarffanez;578;100;PPN;FT; ; ;NO; ; ; ; ;NO; 
+Ruy;627;108;PPN;FT; ; ;NO; ; ; ; ;NO; 
+c'id;622;107;NPN;FT; ; ;NO; ; ; ; ;NO; 
+diaz;631;109;PPN;FT; ; ;NO; ; ; ; ;NO; 
+burgos;640;111;APLN;FT;http://sws.geonames.org/3127461/;Burgos;SI; ; ; ;Medieval;NO;42.34997:-3.68221
+Dios;855;146;DPN;FT; ; ;NO; ; ; ; ;NO; 
+vassalo;869;149;RNA;FT; ; ; ; ; ; ; ; 
+Sennor;893;153;RNH;FT; ; ; ; ; ; ; ; 
+le;910;155;PPN;FT; ; ;NO; ; ; ; ;NO; 
+alfonsso;961;166;PPN;FT; ; ;NO; ; ; ; ;NO; 
+Rey;956;165;RNA;FT; ; ; ; ; ; ; ; 
+don;957;165;RNH;FT; ; ; ; ; ; ; ; 
+burgos;1017;176;APLN;FT;http://sws.geonames.org/3127461/;Burgos;SI; ; ; ;Medieval;NO;42.34997:-3.68221
+Ruy;1103;192;PPN;FT; ; ;NO; ; ; ; ;NO; 
+c'id;1098;191;NPN;FT; ; ;NO; ; ; ; ;NO; 
+diaz;1107;193;PPN;FT; ; ;NO; ; ; ; ;NO; 
+c'id;1336;235;NPN;FT; ; ;NO; ; ; ; ;NO; 
+campeador;1368;242;NPN;FT; ; ;NO; ; ; ; ;NO; 
+alfonsso;1466;259;PPN;FT; ; ;NO; ; ; ; ;NO; 
+Rey;1465;259;RNA;PPT; ; ; ; ; ; ; ; 
+c'id;1576;280;NPN;FT; ; ;NO; ; ; ; ;NO; 
+c'id;1660;295;NPN;FT; ; ;NO; ; ; ; ;NO; 
+campeador;1819;327;NPN;FT; ; ;NO; ; ; ; ;NO; 
+Rey;1868;335;RNA;FT; ; ; ; ; ; ; ; 
+C'id;0;2075;NPN;FT; ; ;NO; ; ; ; ;NO; 
+criador;2126;383;DPN;FT; ; ;NO; ; ; ; ;NO; 
+c'id;2229;404;NPN;FT; ; ;NO; ; ; ; ;NO; 
+Rey;2246;408;RNA;PPT; ; ; ; ; ; ; ; 
+burgos;2289;415;APLN;FT;http://sws.geonames.org/3127461/;Burgos;SI; ; ; ;Medieval;NO;42.34997:-3.68221
+Maria Maria;2319;420;PLN;PPT; ; ;NO; ; ; ; ;SI;''
+santa;2314;419;RNS;FT; ; ; ; ; ; ; ; 
+c'id;224;38;NPN;FT; ; ;NO; ; ; ; ;NO; 
+c'id;271;46;NPN;FT; ; ;NO; ; ; ; ;NO; 
+sennor;308;54;RNH;FT; ; ; ; ; ; ; ; 
+biuar;444;78;PLN;FT;http://sws.geonames.org/3104488;Vivar del Cid;NO; ; ; ;Medieval;NO;0 0
+burgos;491;86;APLN;FT;http://sws.geonames.org/3127461/;Burgos;SI; ; ; ;Medieval;NO;42.34997:-3.68221
+c'id;531;92;NPN;FT; ; ;NO; ; ; ; ;NO; 
+albarffanez;578;100;PPN;FT; ; ;NO; ; ; ; ;NO; 
+Ruy;627;108;PPN;FT; ; ;NO; ; ; ; ;NO; 
+c'id;622;107;NPN;FT; ; ;NO; ; ; ; ;NO; 
+diaz;631;109;PPN;FT; ; ;NO; ; ; ; ;NO; 
+burgos;640;111;APLN;FT;http://sws.geonames.org/3127461/;Burgos;SI; ; ; ;Medieval;NO;42.34997:-3.68221
+Dios;855;146;DPN;FT; ; ;NO; ; ; ; ;NO; 
+vassalo;869;149;RNA;FT; ; ; ; ; ; ; ; 
+Sennor;893;153;RNH;FT; ; ; ; ; ; ; ; 
+le;910;155;PPN;FT; ; ;NO; ; ; ; ;NO; 
+alfonsso;961;166;PPN;FT; ; ;NO; ; ; ; ;NO; 
+Rey;956;165;RNA;FT; ; ; ; ; ; ; ; 
+don;957;165;RNH;FT; ; ; ; ; ; ; ; 
+burgos;1017;176;APLN;FT;http://sws.geonames.org/3127461/;Burgos;SI; ; ; ;Medieval;NO;42.34997:-3.68221
+Ruy;1103;192;PPN;FT; ; ;NO; ; ; ; ;NO; 
+c'id;1098;191;NPN;FT; ; ;NO; ; ; ; ;NO; 
+diaz;1107;193;PPN;FT; ; ;NO; ; ; ; ;NO; 
+c'id;1336;235;NPN;FT; ; ;NO; ; ; ; ;NO; 
+campeador;1368;242;NPN;FT; ; ;NO; ; ; ; ;NO; 
+alfonsso;1466;259;PPN;FT; ; ;NO; ; ; ; ;NO; 
+Rey;1465;259;RNA;PPT; ; ; ; ; ; ; ; 
+c'id;1576;280;NPN;FT; ; ;NO; ; ; ; ;NO; 
+c'id;1660;295;NPN;FT; ; ;NO; ; ; ; ;NO; 
+campeador;1819;327;NPN;FT; ; ;NO; ; ; ; ;NO; 
+Rey;1868;335;RNA;FT; ; ; ; ; ; ; ; 
+C'id;0;2075;NPN;FT; ; ;NO; ; ; ; ;NO; 
+criador;2126;383;DPN;FT; ; ;NO; ; ; ; ;NO; 
+c'id;2229;404;NPN;FT; ; ;NO; ; ; ; ;NO; 
+Rey;2246;408;RNA;PPT; ; ; ; ; ; ; ; 
+burgos;2289;415;APLN;FT;http://sws.geonames.org/3127461/;Burgos;SI; ; ; ;Medieval;NO;42.34997:-3.68221
+Maria Maria;2319;420;PLN;PPT; ; ;NO; ; ; ; ;SI;''
+santa;2314;419;RNS;FT; ; ; ; ; ; ; ; 
